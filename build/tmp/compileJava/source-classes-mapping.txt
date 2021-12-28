@@ -1,6 +1,27 @@
-com/tmax/bjk/springboot/Application.java
- com.tmax.bjk.springboot.Application
-com/tmax/bjk/springboot/web/dto/HelloResponseDto.java
- com.tmax.bjk.springboot.web.dto.HelloResponseDto
+com/tmax/bjk/springboot/web/dto/PostsUpdateRequestDto.java
+ com.tmax.bjk.springboot.web.dto.PostsUpdateRequestDto
+ com.tmax.bjk.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/tmax/bjk/springboot/domain/posts/PostsRepository.java
+ com.tmax.bjk.springboot.domain.posts.PostsRepository
 com/tmax/bjk/springboot/web/HelloController.java
  com.tmax.bjk.springboot.web.HelloController
+com/tmax/bjk/springboot/web/dto/HelloResponseDto.java
+ com.tmax.bjk.springboot.web.dto.HelloResponseDto
+com/tmax/bjk/springboot/Application.java
+ com.tmax.bjk.springboot.Application
+com/tmax/bjk/springboot/domain/BaseTimeEntity.java
+ com.tmax.bjk.springboot.domain.BaseTimeEntity
+com/tmax/bjk/springboot/web/dto/PostsResponseDto.java
+ com.tmax.bjk.springboot.web.dto.PostsResponseDto
+com/tmax/bjk/springboot/web/PostsApiController.java
+ com.tmax.bjk.springboot.web.PostsApiController
+com/tmax/bjk/springboot/service/posts/PostsService.java
+ com.tmax.bjk.springboot.service.posts.PostsService
+com/tmax/bjk/springboot/domain/posts/Posts.java
+ com.tmax.bjk.springboot.domain.posts.Posts
+ com.tmax.bjk.springboot.domain.posts.Posts$PostsBuilder
+com/tmax/bjk/springboot/web/dto/PostsSaveRequestDto.java
+ com.tmax.bjk.springboot.web.dto.PostsSaveRequestDto
+ com.tmax.bjk.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/tmax/bjk/springboot/web/IndexContoller.java
+ com.tmax.bjk.springboot.web.IndexContoller
