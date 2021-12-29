@@ -2,6 +2,7 @@ plugins {
     id 'org.springframework.boot' version '2.4.1'
     id 'io.spring.dependency-management' version '1.0.10.RELEASE'
     id 'java'
+//    id 'war'
 }
 
 group 'com.tmax.bjk'
@@ -31,4 +32,16 @@ dependencies {
     implementation('com.h2database:h2')
 
     implementation('org.springframework.boot:spring-boot-starter-mustache')
+
+    implementation('org.springframework.boot:spring-boot-starter-oauth2-client')
+    testImplementation('org.springframework.security:spring-security-test')
+
+    implementation('org.springframework.session:spring-session-jdbc')
 }
+
+/*
+bootWar {
+    archiveBaseName = "test-api"
+    archiveFileName = "test-api.war"
+    archiveVersion = "0.0.0"
+}*/

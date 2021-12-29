@@ -1,10 +1,10 @@
-com/tmax/bjk/springboot/web/HelloControllerTest.java
- com.tmax.bjk.springboot.web.HelloControllerTest
-com/tmax/bjk/springboot/web/dto/HelloResponseDtoTest.java
- com.tmax.bjk.springboot.web.dto.HelloResponseDtoTest
 com/tmax/bjk/springboot/web/PostsApiControllerTest.java
  com.tmax.bjk.springboot.web.PostsApiControllerTest
-com/tmax/bjk/springboot/domain/posts/PostsRepositoryTest.java
- com.tmax.bjk.springboot.domain.posts.PostsRepositoryTest
 com/tmax/bjk/springboot/web/IndexControllerTest.java
  com.tmax.bjk.springboot.web.IndexControllerTest
+com/tmax/bjk/springboot/web/dto/HelloResponseDtoTest.java
+ com.tmax.bjk.springboot.web.dto.HelloResponseDtoTest
+com/tmax/bjk/springboot/domain/posts/PostsRepositoryTest.java
+ com.tmax.bjk.springboot.domain.posts.PostsRepositoryTest
+com/tmax/bjk/springboot/web/HelloControllerTest.java
+ com.tmax.bjk.springboot.web.HelloControllerTest

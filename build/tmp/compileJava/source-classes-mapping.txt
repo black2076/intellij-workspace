@@ -1,29 +1,53 @@
+com/tmax/bjk/springboot/config/auth/dto/OAuthAttributes.java
+ com.tmax.bjk.springboot.config.auth.dto.OAuthAttributes
+ com.tmax.bjk.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 com/tmax/bjk/springboot/web/dto/PostsUpdateRequestDto.java
  com.tmax.bjk.springboot.web.dto.PostsUpdateRequestDto
  com.tmax.bjk.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/tmax/bjk/springboot/domain/user/User.java
+ com.tmax.bjk.springboot.domain.user.User
+ com.tmax.bjk.springboot.domain.user.User$UserBuilder
+com/tmax/bjk/springboot/domain/BaseTimeEntity.java
+ com.tmax.bjk.springboot.domain.BaseTimeEntity
+com/tmax/bjk/springboot/domain/user/UserRepository.java
+ com.tmax.bjk.springboot.domain.user.UserRepository
+com/tmax/bjk/springboot/web/dto/HelloResponseDto.java
+ com.tmax.bjk.springboot.web.dto.HelloResponseDto
+com/tmax/bjk/springboot/config/WebConfig.java
+ com.tmax.bjk.springboot.config.WebConfig
+com/tmax/bjk/springboot/domain/posts/PostsRepository.java
+ com.tmax.bjk.springboot.domain.posts.PostsRepository
+com/tmax/bjk/springboot/web/HelloController.java
+ com.tmax.bjk.springboot.web.HelloController
+com/tmax/bjk/springboot/domain/user/Role.java
+ com.tmax.bjk.springboot.domain.user.Role
+com/tmax/bjk/springboot/config/auth/dto/SessionUser.java
+ com.tmax.bjk.springboot.config.auth.dto.SessionUser
+com/tmax/bjk/springboot/config/auth/SecurityConfig.java
+ com.tmax.bjk.springboot.config.auth.SecurityConfig
 com/tmax/bjk/springboot/web/dto/PostsSaveRequestDto.java
  com.tmax.bjk.springboot.web.dto.PostsSaveRequestDto
  com.tmax.bjk.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
-com/tmax/bjk/springboot/web/HelloController.java
- com.tmax.bjk.springboot.web.HelloController
-com/tmax/bjk/springboot/web/dto/HelloResponseDto.java
- com.tmax.bjk.springboot.web.dto.HelloResponseDto
-com/tmax/bjk/springboot/Application.java
- com.tmax.bjk.springboot.Application
-com/tmax/bjk/springboot/domain/BaseTimeEntity.java
- com.tmax.bjk.springboot.domain.BaseTimeEntity
-com/tmax/bjk/springboot/web/dto/PostsResponseDto.java
- com.tmax.bjk.springboot.web.dto.PostsResponseDto
-com/tmax/bjk/springboot/domain/posts/Posts.java
- com.tmax.bjk.springboot.domain.posts.Posts
- com.tmax.bjk.springboot.domain.posts.Posts$PostsBuilder
+com/tmax/bjk/springboot/config/auth/LoginUserArgumentResolver.java
+ com.tmax.bjk.springboot.config.auth.LoginUserArgumentResolver
 com/tmax/bjk/springboot/web/dto/PostsListResponseDto.java
  com.tmax.bjk.springboot.web.dto.PostsListResponseDto
-com/tmax/bjk/springboot/domain/posts/PostsRepository.java
- com.tmax.bjk.springboot.domain.posts.PostsRepository
-com/tmax/bjk/springboot/web/IndexContoller.java
- com.tmax.bjk.springboot.web.IndexContoller
+com/tmax/bjk/springboot/web/dto/PostsResponseDto.java
+ com.tmax.bjk.springboot.web.dto.PostsResponseDto
+com/tmax/bjk/springboot/config/auth/LoginUser.java
+ com.tmax.bjk.springboot.config.auth.LoginUser
+com/tmax/bjk/springboot/web/IndexController.java
+ com.tmax.bjk.springboot.web.IndexController
 com/tmax/bjk/springboot/web/PostsApiController.java
  com.tmax.bjk.springboot.web.PostsApiController
 com/tmax/bjk/springboot/service/posts/PostsService.java
  com.tmax.bjk.springboot.service.posts.PostsService
+com/tmax/bjk/springboot/domain/posts/Posts.java
+ com.tmax.bjk.springboot.domain.posts.Posts
+ com.tmax.bjk.springboot.domain.posts.Posts$PostsBuilder
+com/tmax/bjk/springboot/config/auth/CustomOAuth2UserService.java
+ com.tmax.bjk.springboot.config.auth.CustomOAuth2UserService
+com/tmax/bjk/springboot/Application.java
+ com.tmax.bjk.springboot.Application
+com/tmax/bjk/springboot/config/JpaConfig.java
+ com.tmax.bjk.springboot.config.JpaConfig
