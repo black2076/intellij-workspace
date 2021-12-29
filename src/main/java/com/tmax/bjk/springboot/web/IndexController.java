@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 @RequiredArgsConstructor
 @Controller
-public class IndexContoller {
+public class IndexController {
     private final PostsService postsService;
 
     @GetMapping("/")
