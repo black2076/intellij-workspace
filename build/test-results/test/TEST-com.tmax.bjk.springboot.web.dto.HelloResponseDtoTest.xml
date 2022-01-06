@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.tmax.bjk.springboot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-29T08:04:34" hostname="DESKTOP-O8G5OBD" time="0.004">
+<testsuite name="com.tmax.bjk.springboot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-06T07:45:19" hostname="DESKTOP-O8G5OBD" time="0.006">
   <properties/>
-  <testcase name="롬븍_기능_테스트()" classname="com.tmax.bjk.springboot.web.dto.HelloResponseDtoTest" time="0.004"/>
+  <testcase name="롬븍_기능_테스트()" classname="com.tmax.bjk.springboot.web.dto.HelloResponseDtoTest" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
